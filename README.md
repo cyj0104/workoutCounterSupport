@@ -40,4 +40,4 @@ Apple Watch용 운동 세트/횟수 카운터 앱입니다.
 
 ## 지원
 
-문의 및 버그 리포트: [GitHub Issues](https://github.com/cyj0104/workoutCounter/issues)
+문의 및 버그 리포트: [GitHub Issues](https://github.com/cyj0104/workoutCounterSupport/issues)
